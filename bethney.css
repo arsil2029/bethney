@@ -980,7 +980,15 @@ section.pricing {
 {
     width: 100%;
 }
-
+.button-team
+{
+    position: absolute;
+    bottom: 2%;
+}
+.team-main
+{
+    position: relative;
+}
 
 
 
